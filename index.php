@@ -166,12 +166,13 @@
 				<ul>
 					<li>HTML/CSS/SASS</li>
 					<li>JavaScript/jQuery</li>
-					<li>PHP</li>
+					<li>PHP/Codeigniter</li>
 					<li>Responsive Web Design</li>
 					<li>Object Oriented Programming</li>
 					<li>MySQL/MariaDB/PostgreSQL</li>
 					<li>Python/Flask/Django</li>
-					<li>C#/ASP.NET MVC/Entity Framework
+					<li>C#/ASP.NET MVC/Entity Framework</li>
+					<li>NodeJS/MongoDB/Express/AureliaJS</li>
 					<li>Photoshop</li>
 					<li>Command Line</li>
 					<li>Git</li>
