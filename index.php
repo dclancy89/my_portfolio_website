@@ -164,14 +164,14 @@
 				
 				<p>My skillset includes: </p>
 				<ul>
-					<li>HTML</li>
-					<li>CSS/SASS</li>
+					<li>HTML/CSS/SASS</li>
 					<li>JavaScript/jQuery</li>
 					<li>PHP</li>
 					<li>Responsive Web Design</li>
 					<li>Object Oriented Programming</li>
-					<li>MySQL Databases</li>
+					<li>MySQL/MariaDB/PostgreSQL</li>
 					<li>Python/Flask/Django</li>
+					<li>C#/ASP.NET MVC/Entity Framework
 					<li>Photoshop</li>
 					<li>Command Line</li>
 					<li>Git</li>

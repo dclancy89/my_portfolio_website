@@ -24,6 +24,7 @@
 				<a href="http://www.danieltclancy.com" class="">
 					<h1>Daniel Clancy</h1><p>Web Developer</p>
 				</a>
+				<span><a href="http://www.linkedin.com/in/dclancy89" target="_blank"><img src="images/linkedin-logo-copy.png" class="linkedin" /></a><a href="https://github.com/dclancy89" target="_blank"><img src="images/github-512.png" class="github" /></a><a href="images/Daniel_Clancy_Resume_2018.pdf" target="_blank"><i class="fa fa-file-text-o" aria-hidden="true"></i></a></span>
 			</div>
 			<div class="nav cols-8">
 				<div id="hamburger"><a><i class="fa fa-bars" aria-hidden="true" ></i></a></div>
