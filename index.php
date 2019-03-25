@@ -71,7 +71,7 @@
 				</div>
 			</a>
 			
-			<a href="http://www.thelillypadhomewood.com/" target="_blank" uk-parallax="opacity:0,1;y:-25,0;viewport:0.25;">
+			<!-- <a href="http://www.thelillypadhomewood.com/" target="_blank" uk-parallax="opacity:0,1;y:-25,0;viewport:0.25;">
 				<div class="uk-card uk-card-default uk-card-body">
 				<h3 class="uk-card-title">The Lilly Pad</h3>
 				<p><img src="images/screenshots/lillypad-screenshot.png" /></p>
@@ -91,7 +91,7 @@
 					<h3 class="uk-card-title">Technologies</h3>
 					<p>Joomla<br />HTML5<br />CSS3<br />PHP</p>
 				</div>
-			</a>
+			</a> -->
 			
 			<a href="http://dawn.danieltclancy.com/home/" target="_blank" uk-parallax="opacity:0,1;y:-25,0;viewport:0.25;">
 				<div class="uk-card uk-card-default uk-card-body">
